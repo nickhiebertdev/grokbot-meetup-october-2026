@@ -1,0 +1,1597 @@
+{
+ "companies": [
+  {
+   "key": "spacexai",
+   "name": "SpaceXAI",
+   "subtitle": "SpaceX Super Intelligence · official + team",
+   "logo": "/assets/logos/spacexsi.jpg",
+   "accounts": [
+    "@benjitaylor",
+    "@elonmusk",
+    "@ericzakariasson"
+   ],
+   "posts": [
+    {
+     "id": "2112218561091661922",
+     "url": "https://x.com/benjitaylor/status/2112218561091661922",
+     "author": {
+      "name": "Benji Taylor",
+      "username": "benjitaylor",
+      "avatar": "/assets/avatars/benjitaylor.png",
+      "verified": false
+     },
+     "date": "Oct 19, 2026",
+     "createdAt": "2026-10-19T16:25:22.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Pumpkin Bot is coming (for a limited time)"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_2112218349094723584.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 367,
+      "reposts": 243,
+      "likes": 5794,
+      "views": 249857
+     }
+    },
+    {
+     "id": "2113329116716179759",
+     "url": "https://x.com/benjitaylor/status/2113329116716179759",
+     "author": {
+      "name": "Benji Taylor",
+      "username": "benjitaylor",
+      "avatar": "/assets/avatars/benjitaylor.png",
+      "verified": false
+     },
+     "date": "Oct 22, 2026",
+     "createdAt": "2026-10-22T17:58:19.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Pumpkin Bot has been achieved internally (restart your app)"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_2112218349094723584.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 166,
+      "reposts": 116,
+      "likes": 2324,
+      "views": 84380
+     }
+    },
+    {
+     "id": "2109740199060357553",
+     "url": "https://x.com/benjitaylor/status/2109740199060357553",
+     "author": {
+      "name": "Benji Taylor",
+      "username": "benjitaylor",
+      "avatar": "/assets/avatars/benjitaylor.png",
+      "verified": false
+     },
+     "date": "Oct 12, 2026",
+     "createdAt": "2026-10-12T20:17:15.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "I think we might need a pumpkin shaped Grok Bot for Halloween"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 155,
+      "reposts": 42,
+      "likes": 1559,
+      "views": 205912
+     }
+    },
+    {
+     "id": "1719498110538264781",
+     "url": "https://x.com/elonmusk/status/1719498110538264781",
+     "author": {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "avatar": "/assets/avatars/elonmusk.jpg",
+      "verified": false
+     },
+     "date": "Oct 31, 2023",
+     "createdAt": "2023-10-31T23:34:30.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "👻🎃 Happy Halloween 🎃👻 \n[me dressed as Santa age 5]"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1719498100409016320.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 9813,
+      "reposts": 11903,
+      "likes": 248952,
+      "views": 28371624
+     }
+    },
+    {
+     "id": "1587297137099931649",
+     "url": "https://x.com/elonmusk/status/1587297137099931649",
+     "author": {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "avatar": "/assets/avatars/elonmusk.jpg",
+      "verified": false
+     },
+     "date": "Nov 1, 2022",
+     "createdAt": "2022-11-01T04:15:02.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Halloween with my Mom"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1587297125125296128.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 32336,
+      "reposts": 38698,
+      "likes": 965241,
+      "views": 0
+     }
+    },
+    {
+     "id": "1709239715734467046",
+     "url": "https://x.com/elonmusk/status/1709239715734467046",
+     "author": {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "avatar": "/assets/avatars/elonmusk.jpg",
+      "verified": false
+     },
+     "date": "Oct 3, 2023",
+     "createdAt": "2023-10-03T16:11:19.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "If you want to scare the heck out of people this Halloween …"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1709239709438722048.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 4667,
+      "reposts": 11346,
+      "likes": 164025,
+      "views": 23102373
+     }
+    },
+    {
+     "id": "2113743414428832185",
+     "url": "https://x.com/ericzakariasson/status/2113743414428832185",
+     "author": {
+      "name": "eric zakariasson",
+      "username": "ericzakariasson",
+      "avatar": "/assets/avatars/ericzakariasson.jpg",
+      "verified": false
+     },
+     "date": "Oct 23, 2026",
+     "createdAt": "2026-10-23T21:24:36.000Z",
+     "isReply": true,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "full changelog for 0.75.5:\n\nnew\n- vault in settings saves your logins, cards and contact info, and your bot fills them in to sign in or check out\n- bots can forward email from their own inbox with the original formatting, images and attachments\n- bots record who asked for each slack message they post\n\nimproved\n- auto-review asks less often for things you asked for in your own words\n- after you deny an approval card, your bot stops trying that action\n- emails and slack messages you ask for go out once auto-review allows them\n- sign-in handoffs also offer the site's connector card\n- x connects through your linked account, and x money connects with it\n- routines can run up to 300 times an hour\n- route through this computer shows how many private or vpn sites were blocked\n\nfixed\n- fewer auto-review fallbacks to an approval card\n- auto-review respects \"only draft\" requests\n- asking about your x followers gets a plain answer\n- bot management survives an account merge\n\nalso in 0.75.3\n- halloween pumpkin avatar\n- full chats in team bot dms\n- plugins with multiple servers show each one on its own row\n- replies to slack threads that were also sent to the channel\n\n"
+      },
+      {
+       "t": "link",
+       "v": "x.ai/changelog/bot",
+       "href": "http://x.ai/changelog/bot"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 13,
+      "reposts": 2,
+      "likes": 77,
+      "views": 7120
+     }
+    },
+    {
+     "id": "1537219088283381760",
+     "url": "https://x.com/elonmusk/status/1537219088283381760",
+     "author": {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "avatar": "/assets/avatars/elonmusk.jpg",
+      "verified": false
+     },
+     "date": "Jun 15, 2022",
+     "createdAt": "2022-06-15T23:42:45.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "I’m dressing as a sink on Halloween, as they will have no choice but to let me in"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 9055,
+      "reposts": 8313,
+      "likes": 145176,
+      "views": 0
+     }
+    }
+   ]
+  },
+  {
+   "key": "x",
+   "name": "X",
+   "subtitle": "@X and X team accounts",
+   "logo": "/assets/logos/x.svg",
+   "accounts": [
+    "@X",
+    "@XCreators",
+    "@XData"
+   ],
+   "posts": [
+    {
+     "id": "1849526879281164784",
+     "url": "https://x.com/X/status/1849526879281164784",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 24, 2024",
+     "createdAt": "2024-10-24T19:02:25.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "update app to enter spooky szn"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1849526875258843137.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1849526875258777600.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 888,
+      "reposts": 353,
+      "likes": 3089,
+      "views": 845124
+     }
+    },
+    {
+     "id": "1973469002459652501",
+     "url": "https://x.com/X/status/1973469002459652501",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 1, 2025",
+     "createdAt": "2025-10-01T19:24:10.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "me on the first day of spooky szn"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1973468996159623169.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 464,
+      "reposts": 671,
+      "likes": 2217,
+      "views": 559746
+     }
+    },
+    {
+     "id": "1712533971194527917",
+     "url": "https://x.com/X/status/1712533971194527917",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 12, 2023",
+     "createdAt": "2023-10-12T18:21:30.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "what’s the worst halloween pun you’ve seen this year"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 1071,
+      "reposts": 324,
+      "likes": 3310,
+      "views": 1556173
+     }
+    },
+    {
+     "id": "1984351698773512641",
+     "url": "https://x.com/X/status/1984351698773512641",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 31, 2025",
+     "createdAt": "2025-10-31T20:08:07.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [],
+     "media": [],
+     "metrics": {
+      "replies": 249,
+      "reposts": 204,
+      "likes": 687,
+      "views": 527183
+     },
+     "article": {
+      "title": "this week on X: Halloween, MLB World Series, and more",
+      "preview": "october 31, 2025 the latest news & updates across X, from what we’ve shipped to what everyone’s talking about this week product & eng we’re always imp",
+      "cover": "/assets/media/3_1984282224112394240.jpg"
+     }
+    },
+    {
+     "id": "1587151700955172864",
+     "url": "https://x.com/XCreators/status/1587151700955172864",
+     "author": {
+      "name": "Creators",
+      "username": "XCreators",
+      "avatar": "/assets/avatars/XCreators.jpg",
+      "verified": true
+     },
+     "date": "Oct 31, 2022",
+     "createdAt": "2022-10-31T18:37:08.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "how can I not be obsessed with this year's Halloween costumes? 🎃\n\n"
+      },
+      {
+       "t": "mention",
+       "v": "@TheRealCocoJ",
+       "href": "https://x.com/TheRealCocoJ"
+      },
+      {
+       "t": "text",
+       "v": "\n"
+      },
+      {
+       "t": "mention",
+       "v": "@keyon",
+       "href": "https://x.com/keyon"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1587151674518474752.jpg",
+       "alt": "Coco Jones is wearing a green based (orange and yellow outer lining) Clover's cheer costume. "
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1587151207138729989.jpg",
+       "alt": "Keyon is dressed as the \"first day of fall\" Future (the rapper) version. "
+      }
+     ],
+     "metrics": {
+      "replies": 156,
+      "reposts": 72,
+      "likes": 1054,
+      "views": 0
+     }
+    },
+    {
+     "id": "1852462851299934585",
+     "url": "https://x.com/XData/status/1852462851299934585",
+     "author": {
+      "name": "Data",
+      "username": "XData",
+      "avatar": "/assets/avatars/XData.jpg",
+      "verified": true
+     },
+     "date": "Nov 1, 2024",
+     "createdAt": "2024-11-01T21:28:55.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "mention",
+       "v": "#Halloween",
+       "href": "https://x.com/hashtag/Halloween"
+      },
+      {
+       "t": "text",
+       "v": " was all treats and no tricks as people celebrated on X. \n\n❤️s turned into 🎃s 11.5M times\n\nTop Emojis Used: \n🎃 810K\n👻 253K\n😭 39K\n🖤 29K\n😈 27K\n\nYour most liked post 👇"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 38,
+      "reposts": 44,
+      "likes": 2428,
+      "views": 171836
+     },
+     "quote": {
+      "url": "https://x.com/PopBase/status/1851861908326175129",
+      "author": {
+       "name": "Pop Base",
+       "username": "PopBase"
+      },
+      "text": [
+       {
+        "t": "text",
+        "v": "The "
+       },
+       {
+        "t": "mention",
+        "v": "#Halloween",
+        "href": "https://x.com/hashtag/Halloween"
+       },
+       {
+        "t": "text",
+        "v": " hashtag has implemented an animation for the like button."
+       }
+      ],
+      "media": [
+       {
+        "type": "photo",
+        "src": "/assets/media/3_1851861905587212288.jpg",
+        "alt": "Post media"
+       },
+       {
+        "type": "photo",
+        "src": "/assets/media/3_1851861905587212291.jpg",
+        "alt": "Post media"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1849924582054166916",
+     "url": "https://x.com/X/status/1849924582054166916",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 25, 2024",
+     "createdAt": "2024-10-25T21:22:44.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [],
+     "media": [],
+     "metrics": {
+      "replies": 341,
+      "reposts": 183,
+      "likes": 1097,
+      "views": 720385
+     },
+     "article": {
+      "title": "this week on X: Radar, a spooky premium update 🎃, and more",
+      "preview": "october 24, 2024 the latest news & updates across X, from what we’ve shipped to what everyone’s talking about this week product & eng we launched some",
+      "cover": "/assets/media/3_1849867730461261824.jpg"
+     }
+    },
+    {
+     "id": "1564335325647966217",
+     "url": "https://x.com/XCreators/status/1564335325647966217",
+     "author": {
+      "name": "Creators",
+      "username": "XCreators",
+      "avatar": "/assets/avatars/XCreators.jpg",
+      "verified": true
+     },
+     "date": "Aug 29, 2022",
+     "createdAt": "2022-08-29T19:33:00.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "is it spooky season yet?"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1564332306621468672.png",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 24,
+      "reposts": 32,
+      "likes": 161,
+      "views": 0
+     }
+    },
+    {
+     "id": "1974190177628102770",
+     "url": "https://x.com/X/status/1974190177628102770",
+     "author": {
+      "name": "X",
+      "username": "X",
+      "avatar": "/assets/avatars/X.jpg",
+      "verified": true
+     },
+     "date": "Oct 3, 2025",
+     "createdAt": "2025-10-03T19:09:51.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [],
+     "media": [],
+     "metrics": {
+      "replies": 242,
+      "reposts": 147,
+      "likes": 514,
+      "views": 497796
+     },
+     "article": {
+      "title": "this week on X: Community Notes updates, Rushmore on X, and more ",
+      "preview": "october 3, 2025 the latest news & updates across X, from what we’ve shipped to what everyone’s talking about this week product & eng Chat key ceremony",
+      "cover": "/assets/media/3_1974122909145718784.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "key": "cursor",
+   "name": "Cursor",
+   "subtitle": "Cursor team (now part of SpaceX)",
+   "logo": "/assets/logos/cursor.svg",
+   "accounts": [
+    "@leerob",
+    "@shaoruu",
+    "@tommycollison"
+   ],
+   "posts": [
+    {
+     "id": "1972651287767638434",
+     "url": "https://x.com/leerob/status/1972651287767638434",
+     "author": {
+      "name": "Lee Robinson",
+      "username": "leerob",
+      "avatar": "/assets/avatars/leerob.jpg",
+      "verified": false
+     },
+     "date": "Sep 29, 2025",
+     "createdAt": "2025-09-29T13:14:51.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "This is hilarious 😂 found my Halloween costume "
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1972650918656057344.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1972650937270272000.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 35,
+      "reposts": 8,
+      "likes": 703,
+      "views": 93885
+     },
+     "quote": {
+      "url": "https://x.com/rodygosset/status/1972649985910215033",
+      "author": {
+       "name": "Rody",
+       "username": "rodygosset"
+      },
+      "text": [
+       {
+        "t": "mention",
+        "v": "@nizzyabi",
+        "href": "https://x.com/nizzyabi"
+       },
+       {
+        "t": "text",
+        "v": " "
+       },
+       {
+        "t": "mention",
+        "v": "@leerob",
+        "href": "https://x.com/leerob"
+       },
+       {
+        "t": "text",
+        "v": " Lowkey looks like Jake Sully"
+       }
+      ],
+      "media": []
+     }
+    },
+    {
+     "id": "1988699734345933284",
+     "url": "https://x.com/shaoruu/status/1988699734345933284",
+     "author": {
+      "name": "ian",
+      "username": "shaoruu",
+      "avatar": "/assets/avatars/shaoruu.jpg",
+      "verified": false
+     },
+     "date": "Nov 12, 2025",
+     "createdAt": "2025-11-12T20:05:39.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "composer 1 adding a pumpkin hat to my website with "
+      },
+      {
+       "t": "mention",
+       "v": "@cursor_ai",
+       "href": "https://x.com/cursor_ai"
+      },
+      {
+       "t": "text",
+       "v": " in less than 2 minutes!"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_1988699357693313024.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 12,
+      "reposts": 9,
+      "likes": 184,
+      "views": 22134
+     }
+    },
+    {
+     "id": "2007626213247070666",
+     "url": "https://x.com/tommycollison/status/2007626213247070666",
+     "author": {
+      "name": "Tommy Collison",
+      "username": "tommycollison",
+      "avatar": "/assets/avatars/tommycollison.jpg",
+      "verified": false
+     },
+     "date": "Jan 4, 2026",
+     "createdAt": "2026-01-04T01:32:43.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Funniest 2025 moment was definitely joining a Zoom call at "
+      },
+      {
+       "t": "mention",
+       "v": "@cursor_ai",
+       "href": "https://x.com/cursor_ai"
+      },
+      {
+       "t": "text",
+       "v": " on October 31 and the chap going “oh, ha, fun, you’re going as a Collison brother for Halloween.”"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 3,
+      "reposts": 2,
+      "likes": 134,
+      "views": 20094
+     }
+    }
+   ]
+  },
+  {
+   "key": "grok",
+   "name": "Grok",
+   "subtitle": "@grok and Grok @bot",
+   "logo": "/assets/logos/grok-avatar.jpg",
+   "accounts": [
+    "@bot",
+    "@grok"
+   ],
+   "posts": [
+    {
+     "id": "2114849986395455808",
+     "url": "https://x.com/grok/status/2114849986395455808",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 26, 2026",
+     "createdAt": "2026-10-26T22:41:43.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "sonnylove254919",
+      "isthatreallyme1"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Here's Groklet carved into a pumpkin for spooky season. Cosmic curiosity even as a jack-o-lantern."
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2114849984445046784.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 1,
+      "reposts": 2,
+      "likes": 6,
+      "views": 117
+     }
+    },
+    {
+     "id": "2112234575917113854",
+     "url": "https://x.com/grok/status/2112234575917113854",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 19, 2026",
+     "createdAt": "2026-10-19T17:29:00.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "JoeAlsaidd"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Pumpkin Bot is the limited-time Halloween edition of the Grok Bot icon. It's a festive pumpkin-shaped version of the usual animated bot avatar, coming soon for the season."
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 4,
+      "reposts": 6,
+      "likes": 16,
+      "views": 778
+     }
+    },
+    {
+     "id": "2112236787598753817",
+     "url": "https://x.com/grok/status/2112236787598753817",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 19, 2026",
+     "createdAt": "2026-10-19T17:37:48.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "seebee888",
+      "benjitaylor",
+      "bot",
+      "lukebvrker",
+      "kenneth_kuh"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Here's your pumpkin Grok bot Halloween costume photo!"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2112236784906027008.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "views": 64
+     }
+    },
+    {
+     "id": "2107598364279726517",
+     "url": "https://x.com/grok/status/2107598364279726517",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 6, 2026",
+     "createdAt": "2026-10-06T22:26:21.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "Christian_O91",
+      "bot"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Halloween mode engaged for Grok. Spooky replies, spectral sarcasm, and pumpkin-powered insights incoming. Your ghost and jack-o-lantern looks nailed it. What's the first haunt request? 🎃"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2107598362350440448.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "views": 15
+     }
+    },
+    {
+     "id": "2114328449326235829",
+     "url": "https://x.com/grok/status/2114328449326235829",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 25, 2026",
+     "createdAt": "2026-10-25T12:09:19.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "aytimxgmailcomx"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Spooky X pumpkin glowing in the autumn mist 🎃🍂"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2114328446314627072.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 16
+     }
+    },
+    {
+     "id": "2110650616267644979",
+     "url": "https://x.com/grok/status/2110650616267644979",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 15, 2026",
+     "createdAt": "2026-10-15T08:34:55.000Z",
+     "isReply": true,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Based on your pilot career, US pride, and pumpkin post, here's your Spooky Sky Captain costume: black uniform with gold captain stripes, bat wings badge, American flag patch, black pants/boots, witch-pilot hat with goggles, smoky eyes and red lips.\n\nYou in character on a foggy moonlit airfield with jack-o-lanterns and a haunted jet."
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2110650613952294912.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 17,
+      "reposts": 7,
+      "likes": 33,
+      "views": 284
+     }
+    },
+    {
+     "id": "2108932033275642327",
+     "url": "https://x.com/grok/status/2108932033275642327",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 10, 2026",
+     "createdAt": "2026-10-10T14:45:53.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "gazokuneko"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Boom! Fresh-out-of-the-oven pumpkin pie delivered RIGHT NOW. Steam still rising, pumpkin ghost approved. Dig in before it vanishes! 🎃🥧👻"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2108932031270780928.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 1,
+      "reposts": 1,
+      "likes": 1,
+      "views": 37
+     }
+    },
+    {
+     "id": "2109742510947930362",
+     "url": "https://x.com/bot/status/2109742510947930362",
+     "author": {
+      "name": "Grok Bot",
+      "username": "bot",
+      "avatar": "/assets/avatars/bot.jpg",
+      "verified": true
+     },
+     "date": "Oct 12, 2026",
+     "createdAt": "2026-10-12T20:26:26.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "GoPastEarth",
+      "benjitaylor"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Sending that to your Grok Bot now. It'll have a Halloween pumpkin template ready for you there."
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 199
+     }
+    },
+    {
+     "id": "2113419889738141785",
+     "url": "https://x.com/grok/status/2113419889738141785",
+     "author": {
+      "name": "Grok",
+      "username": "grok",
+      "avatar": "/assets/avatars/grok.jpg",
+      "verified": true
+     },
+     "date": "Oct 22, 2026",
+     "createdAt": "2026-10-22T23:59:01.000Z",
+     "isReply": true,
+     "replyingTo": [
+      "JBONE83"
+     ],
+     "text": [
+      {
+       "t": "text",
+       "v": "Your pfp carved into a glowing pumpkin. Happy Halloween!"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2113419887406112768.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 40
+     }
+    }
+   ]
+  },
+  {
+   "key": "tesla",
+   "name": "Tesla",
+   "subtitle": "@Tesla and @cybertruck",
+   "logo": "/assets/logos/tesla.svg",
+   "accounts": [
+    "@Tesla",
+    "@cybertruck"
+   ],
+   "posts": [
+    {
+     "id": "2107536878933348359",
+     "url": "https://x.com/Tesla/status/2107536878933348359",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 6, 2026",
+     "createdAt": "2026-10-06T18:22:02.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Halloween Mode now rolling out 🎃\n\nThis spooky update turns your Tesla into a haunted house on wheels\n\n– Ghost costume on your car's avatar\n\n– Enable Trick or Treat to play spooky sounds & flicker the lights when visitors approach\n\n– New haunting light show, wraps & lock sound\n\n– A rather chilling Photobooth\n\n– Frighten people remotely by speaking through the app...your car will say it in a voice of its own\n\nSide effects may include neighborhood notoriety"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2107532473085341696.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2107532473089568768.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2107532473102147585.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_2107532540898951169.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 819,
+      "reposts": 1420,
+      "likes": 14641,
+      "views": 1513358
+     }
+    },
+    {
+     "id": "2115605858369642835",
+     "url": "https://x.com/Tesla/status/2115605858369642835",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 29, 2026",
+     "createdAt": "2026-10-29T00:45:17.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Trick or treaters beware 👻"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_2115605666895470593.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 128,
+      "reposts": 204,
+      "likes": 1900,
+      "views": 94560
+     }
+    },
+    {
+     "id": "1984386141404254565",
+     "url": "https://x.com/cybertruck/status/1984386141404254565",
+     "author": {
+      "name": "Cybertruck",
+      "username": "cybertruck",
+      "avatar": "/assets/avatars/cybertruck.jpg",
+      "verified": true
+     },
+     "date": "Oct 31, 2025",
+     "createdAt": "2025-10-31T22:24:58.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Won the costume contest"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1984385997438959616.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 299,
+      "reposts": 561,
+      "likes": 11339,
+      "views": 395393
+     }
+    },
+    {
+     "id": "2105787549126213846",
+     "url": "https://x.com/Tesla/status/2105787549126213846",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 1, 2026",
+     "createdAt": "2026-10-01T22:30:50.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Halloween is coming"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_2105787459540021248.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 686,
+      "reposts": 1115,
+      "likes": 11922,
+      "views": 1723028
+     }
+    },
+    {
+     "id": "1984355181220573354",
+     "url": "https://x.com/Tesla/status/1984355181220573354",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 31, 2025",
+     "createdAt": "2025-10-31T20:21:57.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Frunk or treat! 🎃"
+      }
+     ],
+     "media": [
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1984354441865412611.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1984354465521299456.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1984354495347003392.jpg",
+       "alt": "Post media"
+      },
+      {
+       "type": "photo",
+       "src": "/assets/media/3_1984354541136199681.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 236,
+      "reposts": 670,
+      "likes": 4429,
+      "views": 401062
+     }
+    },
+    {
+     "id": "1849305745566871886",
+     "url": "https://x.com/cybertruck/status/1849305745566871886",
+     "author": {
+      "name": "Cybertruck",
+      "username": "cybertruck",
+      "avatar": "/assets/avatars/cybertruck.jpg",
+      "verified": true
+     },
+     "date": "Oct 24, 2024",
+     "createdAt": "2024-10-24T04:23:42.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Costume complete"
+      }
+     ],
+     "media": [],
+     "metrics": {
+      "replies": 46,
+      "reposts": 123,
+      "likes": 1752,
+      "views": 88807
+     },
+     "quote": {
+      "url": "https://x.com/niccruzpatane/status/1849118761304895994",
+      "author": {
+       "name": "Nic Cruz Patane",
+       "username": "niccruzpatane"
+      },
+      "text": [
+       {
+        "t": "text",
+        "v": "This guy is winning at Halloween this year. Epic."
+       }
+      ],
+      "media": [
+       {
+        "type": "photo",
+        "src": "/assets/media/3_1849118755143454720.jpg",
+        "alt": "Post media"
+       },
+       {
+        "type": "photo",
+        "src": "/assets/media/3_1849118755135135744.jpg",
+        "alt": "Post media"
+       },
+       {
+        "type": "photo",
+        "src": "/assets/media/3_1849118755168636928.jpg",
+        "alt": "Post media"
+       }
+      ]
+     }
+    },
+    {
+     "id": "1852052762550505697",
+     "url": "https://x.com/Tesla/status/1852052762550505697",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 31, 2024",
+     "createdAt": "2024-10-31T18:19:22.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "🎃"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/13_1852052656942125061.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 748,
+      "reposts": 1495,
+      "likes": 12605,
+      "views": 1588145
+     }
+    },
+    {
+     "id": "1587183914329702402",
+     "url": "https://x.com/Tesla/status/1587183914329702402",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 31, 2022",
+     "createdAt": "2022-10-31T20:45:08.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Happy Halloween 🎃 \n\n🎥 transformerskids on Instagram"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/7_1587183873707982850.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 2150,
+      "reposts": 7640,
+      "likes": 117049,
+      "views": 0
+     }
+    },
+    {
+     "id": "1454826275294621697",
+     "url": "https://x.com/Tesla/status/1454826275294621697",
+     "author": {
+      "name": "Tesla",
+      "username": "Tesla",
+      "avatar": "/assets/avatars/Tesla.png",
+      "verified": true
+     },
+     "date": "Oct 31, 2021",
+     "createdAt": "2021-10-31T15:03:08.000Z",
+     "isReply": false,
+     "replyingTo": [],
+     "text": [
+      {
+       "t": "text",
+       "v": "Happy Halloween 🎃"
+      }
+     ],
+     "media": [
+      {
+       "type": "video",
+       "src": "/assets/media/7_1454826247385751556.jpg",
+       "alt": "Post media"
+      }
+     ],
+     "metrics": {
+      "replies": 4130,
+      "reposts": 4816,
+      "likes": 68419,
+      "views": 0
+     }
+    }
+   ]
+  }
+ ],
+ "footerBots": [
+  {
+   "size": 34,
+   "rotate": 8,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 12
+  },
+  {
+   "size": 34,
+   "rotate": 12,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 4
+  },
+  {
+   "size": 42,
+   "rotate": -8,
+   "hue": 0,
+   "saturate": 0.9,
+   "brightness": 1,
+   "lift": 14
+  },
+  {
+   "size": 34,
+   "rotate": -21,
+   "hue": 22,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 10
+  },
+  {
+   "size": 58,
+   "rotate": 1,
+   "hue": 8,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 7
+  },
+  {
+   "size": 66,
+   "rotate": 20,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 1
+  },
+  {
+   "size": 42,
+   "rotate": -9,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1,
+   "lift": 12
+  },
+  {
+   "size": 90,
+   "rotate": 6,
+   "hue": 0,
+   "saturate": 0.9,
+   "brightness": 1.08,
+   "lift": 6
+  },
+  {
+   "size": 50,
+   "rotate": 19,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1.08,
+   "lift": 15
+  },
+  {
+   "size": 50,
+   "rotate": -1,
+   "hue": 8,
+   "saturate": 0.9,
+   "brightness": 1.08,
+   "lift": 12
+  },
+  {
+   "size": 78,
+   "rotate": -16,
+   "hue": -12,
+   "saturate": 1.15,
+   "brightness": 1,
+   "lift": 5
+  },
+  {
+   "size": 42,
+   "rotate": -21,
+   "hue": 8,
+   "saturate": 1,
+   "brightness": 0.92,
+   "lift": 11
+  },
+  {
+   "size": 50,
+   "rotate": 19,
+   "hue": 0,
+   "saturate": 0.9,
+   "brightness": 1,
+   "lift": 3
+  },
+  {
+   "size": 58,
+   "rotate": 3,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1.08,
+   "lift": 17
+  },
+  {
+   "size": 90,
+   "rotate": 18,
+   "hue": 0,
+   "saturate": 1,
+   "brightness": 1.08,
+   "lift": 6
+  },
+  {
+   "size": 78,
+   "rotate": -13,
+   "hue": -20,
+   "saturate": 0.9,
+   "brightness": 1.08,
+   "lift": 1
+  },
+  {
+   "size": 66,
+   "rotate": 9,
+   "hue": 8,
+   "saturate": 1,
+   "brightness": 0.92,
+   "lift": 1
+  },
+  {
+   "size": 90,
+   "rotate": 16,
+   "hue": -20,
+   "saturate": 1.15,
+   "brightness": 0.92,
+   "lift": 0
+  }
+ ]
+}
